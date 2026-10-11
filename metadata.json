@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Studio – AI Professional Headshot Photographer",
+  "description": "Transform casual selfies into executive-quality studio headshots across Corporate, Tech Office, Outdoor, and bespoke styles with Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
